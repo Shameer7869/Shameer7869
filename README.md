@@ -1,16 +1,37 @@
-## Hi there 👋
+# Muhammad Shameer  
+**Full Stack Developer**
 
-<!--
-**Shameer7869/Shameer7869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build web applications with intention — where structure,
+performance, and clarity matter as much as visuals.
 
-Here are some ideas to get you started:
+I’m focused on creating meaningful digital products rather than chasing trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Do
+- Build full-stack web applications from concept to deployment  
+- Develop clean, scalable backends using Flask and Node.js  
+- Create minimal, purposeful frontends with modern web technologies  
+- Think deeply about architecture, not just implementation  
+
+---
+
+### Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Flask, Node.js  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, Vercel, Render  
+
+---
+
+### Selected Projects
+- **LostHabit** — Curated e-commerce experience focused on design and narrative  
+- **Portfolio** — Personal developer portfolio showcasing my work and philosophy  
+- **WeatherApp** - Professional Weather App
+- **CalenderAPP** - Calender for evrnts scedualing and building discipline 
+---
+
+### Connect
+- Portfolio: *(add when ready)*  
+- LinkedIn: *https://www.upwork.com/freelancers/~0170768f7cee5822d1*  
+- Email: *(optional)*  
