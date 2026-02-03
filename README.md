@@ -48,6 +48,6 @@ projects and design philosophy
 ---
 
 ### Connect
-- Portfolio: https://your-portfolio-link  
-- LinkedIn: https://your-linkedin-link  
+- Portfolio: https://www.linkedin.com/feed/
+- LinkedIn: https://muhammadshameer.vercel.app/
 - Email : shameerhassan8766@gmail.com
