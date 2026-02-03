@@ -32,6 +32,6 @@ I’m focused on creating meaningful digital products rather than chasing trends
 ---
 
 ### Connect
-- Portfolio: *(add when ready)*  
-- LinkedIn: *https://www.upwork.com/freelancers/~0170768f7cee5822d1*  
-- Email: *(optional)*  
+- Portfolio: *[[(add when ready)](https://www.linkedin.com/feed/)](https://muhammadshameer.vercel.app/)*  
+- LinkedIn: *[https://www.upwork.com/freelancers/~0170768f7cee5822d1](https://www.linkedin.com/feed/)*  
+- Email: *shameerhassan8766@gmail.com*  
