@@ -1,4 +1,4 @@
-ChatGPT Image Feb 4, 2026, 06_02_08 PM
+
 <img src="./ChatGPT Image Feb 4, 2026, 06_02_08 PM.png" alt="Profile picture" width="160" />
 
 
