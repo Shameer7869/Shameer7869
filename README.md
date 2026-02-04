@@ -1,14 +1,14 @@
 
-<img src="./ChatGPT Image Feb 4, 2026, 06_02_08 PM.png" alt="Profile picture" width="160" />
+<img src="./ChatGPT Image Feb 4, 2026, 06_02_08 PM.png" alt="Profile picture" width="220" />
+ 
 
-
-I design and build web applications with a strong emphasis on structure,
+- I design and build web applications with a strong emphasis on structure,
 intentional decision-making, and long-term maintainability. I’m interested
 not just in *making things work*, but in understanding *why* they work and
 how they can evolve over time.
 ---
 ### AI & My Direction
-I actively use AI as a development and reasoning tool—from accelerating
+- I actively use AI as a development and reasoning tool—from accelerating
 problem exploration to refining implementation decisions. I’ve worked
 with AI-assisted workflows and see artificial intelligence as a long-term
 collaborator in building better software, not just faster code.
