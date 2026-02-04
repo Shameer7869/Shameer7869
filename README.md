@@ -1,5 +1,5 @@
 
-<img src="./ChatGPT Image Feb 4, 2026, 06_02_08 PM.png" alt="Profile picture" width="750" />
+<img src="./ChatGPT Image Feb 4, 2026, 06_02_08 PM.png" alt="Profile picture" width="900" />
  
 
 - I design and build web applications with a strong emphasis on structure,
