@@ -14,12 +14,12 @@ with AI-assisted workflows and see artificial intelligence as a long-term
 collaborator in building better software, not just faster code.
 ---
 ### Technical Focus
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Flask, Node.js  
-**Databases:** PostgreSQL, MongoDB  
-**AI Usage:** AI-assisted development, prompt-driven problem exploration,
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Flask, Node.js  
+- **Databases:** PostgreSQL, MongoDB  
+- **AI Usage:** AI-assisted development, prompt-driven problem exploration,
 logic refinement, and iterative improvement  
-**Tools & Platforms:** Git, GitHub, Vercel, Render  
+- **Tools & Platforms:** Git, GitHub, Vercel, Render  
 ---
 ### Selected Work
 - **LostHabit** — A curated e-commerce platform built with a focus on
